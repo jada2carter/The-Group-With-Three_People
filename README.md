@@ -45,23 +45,34 @@
   
    <h3> <strong> 2. Screens </strong> </h3>
    
-  <ul>
-  <li> Login </li>
-  <li> Register </li>
-    <ul>
+   <ul>
+     <li> Login </li>
+     <li> Register </li>
+       <ul>
      <li> Upon registering, the user is prompted to take the questionnaire and is given a "Take Now" and "Skip/Take Later" option. </li>
-    </ul>
+       </ul>
   <li> Profile Screen </li>
   <li> Questionnaire Screen </li>
-  <ul>
-   <li> Upon reaching this screen, asks the user a series of questions like "is this the first date?", "Do they prefer relaxed or high energy outings?", "Do you have a    budget?" "Are you adventurous?" etc. 
- </ul>
+     <ul>
+     <li> Upon reaching this screen, asks the user a series of questions like "is this the first date?", "Do they prefer relaxed or high energy outings?", "Do you have       a budget?" "Are you adventurous?" etc.</li>
+     </ul>
  <li> Map Screen </li>
-   <ul>
-    <li> Shows the user their current location and proximity to activities in their area. Does not load anything if user has not taken questionnaire yet </li>
-   </ul> 
+  <ul>
+  <li> Displays the user's location and various activities in their area.</li>
   </ul>
+ <li> Settings Screen </li>
+ <ul>
+  <li> Lets people change language, and app notification settings. </li>
+  </ul>
+ 
+ </ul>
  <h3> <strong> 3. Navigation </strong> </h3>
+ <p><strong> Tab navigation </strong> (Tab to Screen) </p>
+ <ul> </ul>
+ <p><strong> Flow navigation </strong> (Screen to Screen) </p>
+ <ul> </ul>
+ <h2> Wireframes </h2>
+ 
  
     
   
