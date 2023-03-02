@@ -31,7 +31,7 @@
   <ul>
   <li> User logs in to see their saved activity preferences </li>
   <li> User can either load results from last questionnaire or take a new one </li>
-  <li> User can access a map showing the location of each activity </li>
+  <li> User can access a map showing the location of each activity: DONE </li>
   <li> Nested (maybe? Can this be better implemented?) dropdown list of differently categorized functions.
    <ul>
     <li> Ex: "Public outing" -> "casual" -> "Coffee shop" </li>
